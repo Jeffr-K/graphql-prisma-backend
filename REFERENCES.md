@@ -1,0 +1,1 @@
+- [GraphQL Best approach](https://www.moesif.com/blog/api-guide/graphql-best-practices-resources-and-design-patterns/)
